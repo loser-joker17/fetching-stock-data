@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+api:
+  base-url: http://localhost:8080
+  symbol: RELIANCE
+  timeframe: 15m
+  start-date: 2026-01-01T09:15:00
+  end-date: 2026-01-01T15:30:00
