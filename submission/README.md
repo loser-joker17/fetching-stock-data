@@ -201,11 +201,8 @@ Examples:
 This allows efficient time-series queries.
 
 * Aggregation performed in the service layer.
-
 * Separate client application consumes the REST API.
-
 * Pagination support added for large result sets.
-
 * Global exception handling provides meaningful error responses.
 
 ---
