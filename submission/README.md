@@ -75,7 +75,7 @@ http://localhost:8080
 GET /api/v1/candles
 ```
 
-### Example Request
+### Example Request ( No Pagination )
 
 ```http
 http://localhost:8080/api/v1/candles?symbol=RELIANCE&timeframe=15m&startDate=2026-01-01T09:15:00&endDate=2026-01-01T15:30:00
